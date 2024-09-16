@@ -30,8 +30,8 @@ This project is a URL Shortener service that allows users to shorten URLs, retri
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-repo/url-shortener.git
-   cd url-shortener
+   git clone https://github.com/Anand-rahul/UrlShortener.git
+   cd UrlShortener
 
 2. Build the project using Maven:
 
