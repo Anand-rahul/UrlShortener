@@ -1,5 +1,6 @@
-# URL Shortener  (https://roadmap.sh/projects/url-shortening-service)
+# URL Shortener 
 
+Link - https://roadmap.sh/projects/url-shortening-service
 This project is a URL Shortener service that allows users to shorten URLs, retrieve the original URLs from shortened codes, and track statistics such as access counts. It is built using Spring Boot, JPA for persistence, and provides RESTful APIs for interacting with the service.
 
 ## Features
